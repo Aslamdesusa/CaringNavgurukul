@@ -1,0 +1,34 @@
+body{
+    
+}
+.papa{
+    margin: 2% 10% 10% 10%;
+}
+.img1{
+    width: 300px;
+2}
+.main{
+    display: flex;
+    justify-content: space-between;
+}
+.men{
+    font-family: 'Great Vibes', cursive;
+}
+.foot{
+    display: flex;
+    justify-content: center;
+    flex-direction:row;
+    align-items: center;
+    width: 100%;
+    height: 40%;
+/*    position: absolute;*/
+    background: #222;
+}
+.first{
+    display: flex;
+    flex-direction: column;
+    padding: 70px;
+    line-height: 60px;
+    font-size: 200%;
+    
+}
